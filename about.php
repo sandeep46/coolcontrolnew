@@ -30,7 +30,7 @@
                                         <div class="btn-lg-square bg-primary rounded-circle me-3">
                                             <i class="fa fa-phone-alt text-white"></i>
                                         </div>
-                                        <h5 class="mb-0">+012 345 6789</h5>
+                                        <h5 class="mb-0">+973 566604685</h5>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
