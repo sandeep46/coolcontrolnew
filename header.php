@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>AirCon - AC Repair Website Template</title>
+    <title>CoolControlService-Be Cool For A Better Life</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -88,20 +88,20 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav mx-auto bg-light pe-4 py-3 py-lg-0">
-                <a href="index.html" class="nav-item nav-link active">Home</a>
-                <a href="about.html" class="nav-item nav-link">About Us</a>
-                <a href="service.html" class="nav-item nav-link">Our Services</a>
+                <a href="index.php" class="nav-item nav-link active">Home</a>
+                <a href="about.php" class="nav-item nav-link">About Us</a>
+                <a href="service.php" class="nav-item nav-link">Our Services</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu bg-light border-0 m-0">
-                        <a href="feature.html" class="dropdown-item">Features</a>
-                        <a href="quote.html" class="dropdown-item">Free Quote</a>
-                        <a href="team.html" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a>
+                        <a href="feature.php" class="dropdown-item">Features</a>
+                        <a href="quote.php" class="dropdown-item">Free Quote</a>
+                        <a href="team.php" class="dropdown-item">Our Team</a>
+                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
+                        <a href="404.php" class="dropdown-item">404 Page</a>
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                <a href="contact.php" class="nav-item nav-link">Contact Us</a>
             </div>
             <div class="h-100 d-lg-inline-flex align-items-center d-none">
                 <a class="btn btn-square rounded-circle bg-light text-primary me-2" href=""><i class="fab fa-facebook-f"></i></a>
@@ -112,3 +112,11 @@
         </div>
     </nav>
     <!-- Navbar End -->
+    <!-- WhatsApp Chat Icon Start -->
+    <a href="https://wa.me/973566604685?text=I%20am%20contacting%20via%20website" 
+        class="btn btn-success btn-lg rounded-circle position-fixed" 
+        style="bottom: 20px; left: 20px; z-index: 1000;" 
+        target="_blank">
+         <i class="fab fa-whatsapp"></i>
+    </a>
+    <!-- WhatsApp Chat Icon End -->
