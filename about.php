@@ -38,7 +38,7 @@
                                         <div class="btn-lg-square bg-primary rounded-circle me-3">
                                             <i class="fa fa-envelope text-white"></i>
                                         </div>
-                                        <h5 class="mb-0">info@example.com</h5>
+                                        <h5 class="mb-0">info@coolcontrolservice.com</h5>
                                     </div>
                                 </div>
                             </div>
