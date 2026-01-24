@@ -92,7 +92,7 @@
     </nav>
     <!-- Navbar End -->
     <!-- WhatsApp Chat Icon Start -->
-    <a href="https://wa.me/973566604685?text=I%20am%20contacting%20via%20website" 
+    <a href="https://wa.me/971566604685?text=I%20am%20contacting%20via%20website" 
         class="btn btn-success btn-lg rounded-circle position-fixed" 
         style="bottom: 20px; left: 20px; z-index: 1000;" 
         target="_blank">
