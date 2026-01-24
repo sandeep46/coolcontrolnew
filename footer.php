@@ -3,10 +3,13 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-md-6">
-                    <h1 class="text-white mb-4"><img class="img-fluid me-3" src="img/logoicon.png" width="100" height="100" alt="">CoolControlService</h1>
-                    <span>Be Cool For A Better Life</span>
-                </div>
-                <div class="col-lg-3 col-md-6">
+                    <h1 class="text-white mb-4">
+                        <img class="img-fluid me-3" src="img/logoicon.png" width="100" height="100" alt="">CoolControlService
+                    </h1>
+                    <!-- <div>
+                        <span>Be Cool For A Better Life</span>
+                    </div> -->
+                </div>    <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Get In Touch</h5>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Abu Dhabi-UAE</p>
                     <p><i class="fa fa-phone-alt me-3"></i>+973566604685</p>
@@ -14,9 +17,9 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Our Services</h5>
-                    <a class="btn btn-link" href="">AC Installation</a>
+                    <a class="btn btn-link" href="">Marine AC Work</a>
                     <a class="btn btn-link" href="">Cooling Services</a>
-                    <a class="btn btn-link" href="">Heating Services</a>
+                    <a class="btn btn-link" href="">AC Installation</a>
                     <a class="btn btn-link" href="">Annual Inspections</a>
                 </div>
             </div>
