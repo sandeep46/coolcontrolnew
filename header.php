@@ -65,14 +65,6 @@
                     <small>info@coolcontrolservice.com</small>
                 </div>
             </div>
-            <div class="col-lg-5 px-5 text-end">
-                <ol class="breadcrumb justify-content-end mb-0">
-                    <li class="breadcrumb-item"><a class="text-white-50 small" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-white-50 small" href="#">Terms</a></li>
-                    <li class="breadcrumb-item"><a class="text-white-50 small" href="#">Privacy</a></li>
-                    <li class="breadcrumb-item"><a class="text-white-50 small" href="#">Support</a></li>
-                </ol>
-            </div>
         </div>
     </div>
     <!-- Topbar End -->
@@ -94,23 +86,7 @@
                 <a href="index.php" class="nav-item nav-link <?php echo $current_page == 'index.php' ? 'active' : ''; ?>">Home</a>
                 <a href="about.php" class="nav-item nav-link <?php echo $current_page == 'about.php' ? 'active' : ''; ?>">About Us</a>
                 <a href="service.php" class="nav-item nav-link <?php echo $current_page == 'service.php' ? 'active' : ''; ?>">Our Services</a>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                    <div class="dropdown-menu bg-light border-0 m-0">
-                        <a href="feature.php" class="dropdown-item">Features</a>
-                        <a href="quote.php" class="dropdown-item">Free Quote</a>
-                        <a href="team.php" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                        <a href="404.php" class="dropdown-item">404 Page</a>
-                    </div>
-                </div>
                 <a href="contact.php" class="nav-item nav-link <?php echo $current_page == 'contact.php' ? 'active' : ''; ?>">Contact Us</a>
-            </div>
-            <div class="h-100 d-lg-inline-flex align-items-center d-none">
-                <a class="btn btn-square rounded-circle bg-light text-primary me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-square rounded-circle bg-light text-primary me-2" href=""><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-square rounded-circle bg-light text-primary me-2" href=""><i class="fab fa-linkedin-in"></i></a>
-                <a class="btn btn-square rounded-circle bg-light text-primary me-0" href=""><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </nav>

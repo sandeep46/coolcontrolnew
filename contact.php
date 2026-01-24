@@ -5,12 +5,26 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-6 mb-5">Office Address</h1>
-                    <p class="mb-4">Mussafah</p>
-                    <p class="mb-4">Abu Dhabi</p>
-                    <p class="mb-4">United Arab Emirates</p>
-                    
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
+                    <h1 class="display-6 mb-5">Get In Touch</h1>
+                    <div class="d-flex align-items-center mb-4">
+                        <div class="btn-square bg-primary rounded-circle me-3">
+                            <i class="fa fa-map-marker-alt text-white"></i>
+                        </div>
+                        <span>Mussafah 2, PLOT NO:11, ABU DHABI, UAE</span>
+                    </div>
+                    <div class="d-flex align-items-center mb-4">
+                        <div class="btn-square bg-primary rounded-circle me-3">
+                            <i class="fa fa-phone-alt text-white"></i>
+                        </div>
+                        <span>+973566604685</span>
+                    </div>
+                    <div class="d-flex align-items-center mb-4">
+                        <div class="btn-square bg-primary rounded-circle me-3">
+                            <i class="fa fa-envelope text-white"></i>
+                        </div>
+                        <span>info@coolcontrolservice.com</span>
+                    </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s" style="min-height: 450px;">
                     <div class="position-relative overflow-hidden h-100">
